@@ -10,14 +10,14 @@
 
 💻 🔍 Currently studying and looking for opportunities
 
----
+
 
 ## 📫 📩 Connect with me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](<[https](https://www.linkedin.com/in/alejandro-garc%C3%ADa-%C3%A1lvarez/)>)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-%C3%A1lvarez/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alejandrogaralv448@gmail.com)
 
----
+
 
 ## 🛠️ Tech stack:
 
@@ -33,7 +33,6 @@
 
 ![Devops Skills](https://skillicons.dev/icons?i=git,github,docker,apple,windows,vscode)
 
----
 
 ## 💬 Languages:
 
@@ -41,7 +40,7 @@
 
 **English🇬🇧🇺🇸 :** Professional (C1)
 
----
+
 
 ### My Stats:
 
